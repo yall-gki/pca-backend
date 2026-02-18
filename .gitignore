@@ -1,18 +1,21 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Uploaded / generated files
+uploads/
+
+# CSV data files
+*.csv
+
+# Frontend app (if built separately)
+frontend/
+
 # Environment variables
 .env
 
-# Editor / IDE
+# Editor settings
 .vscode/
-
-# Python
-__pycache__/
-venv/
-
-# Runtime / user-generated files
-uploads/
-
-# Data files
-*.csv
-
-# Frontend build or separate app
-frontend/
