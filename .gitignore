@@ -1,7 +1,18 @@
+# Environment variables
 .env
+
+# Editor / IDE
 .vscode/
+
+# Python
 __pycache__/
-uploads/
 venv/
+
+# Runtime / user-generated files
+uploads/
+
+# Data files
 *.csv
+
+# Frontend build or separate app
 frontend/
